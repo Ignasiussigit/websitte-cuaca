@@ -13,7 +13,7 @@ const wrapper = document.querySelector('.wrapper'),
     wind = weatherPart.querySelector('.wind .deg span'),
     img = weatherPart.querySelector('img'),
     backArrow = wrapper.querySelector('header i'),
-    apiKey = '050d9b4670932eccb8274c17b66b97ba'; //ganti dengan API key kamu
+    apiKey = '********************************'; //ganti dengan API key kamu
 
 // function requwst ke API
 function requestAPI(url) {
